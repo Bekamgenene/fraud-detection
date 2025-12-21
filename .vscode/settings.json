@@ -1,0 +1,16 @@
+{
+  "python.defaultInterpreterPath": ".venv/Scripts/python",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+
+  "python.formatting.provider": "black",
+
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
