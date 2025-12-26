@@ -10,3 +10,5 @@ xgboost>=1.5.0
 shap>=0.40.0
 plotly>=5.0.0
 imblearn
+tqdm>=4.62.0
+joblib>=1.1.0
