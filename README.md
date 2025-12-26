@@ -74,7 +74,7 @@ fraud-detection-system/
 
 ```bash
 # Clone the repository
-git clone [<repository-url>](https://github.com/Bekamgenene/fraud-detection)
+git clone https://github.com/Bekamgenene/fraud-detection
 cd fraud-detection-system
 
 # Install dependencies
@@ -319,4 +319,5 @@ For questions, issues, or contributions, please:
 ---
 
 **Built with ❤️ for secure financial transactions**
+
 
