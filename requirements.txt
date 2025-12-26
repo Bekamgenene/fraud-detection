@@ -7,8 +7,37 @@ imbalanced-learn>=0.8.0
 jupyter>=1.0.0
 ipykernel>=6.0.0
 xgboost>=1.5.0
+# lightgbm>=4.5.0  # Commented out due to proxy/network issues
 shap>=0.40.0
 plotly>=5.0.0
-imblearn
 tqdm>=4.62.0
 joblib>=1.1.0
+
+# Testing dependencies
+pytest
+pytest-cov
+pytest-mock
+pytest-xdist
+pytest-html
+hypothesis
+factory-boy
+freezegun
+pytest-benchmark
+great-expectations
+deepdiff
+
+# Dashboard dependencies
+streamlit
+plotly
+folium
+streamlit-folium
+lime
+altair
+pydeck
+
+# Development dependencies
+black
+flake8
+mypy
+pre-commit
+isort
